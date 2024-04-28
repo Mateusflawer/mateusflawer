@@ -1,6 +1,7 @@
-### Hi there 👋
+### Hey 👋
 
-python
+https://www.python.org/
+
 <!--
 **Mateusflawer/mateusflawer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
