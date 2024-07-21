@@ -18,5 +18,5 @@ Sinta-se à vontade para explorar meus repositórios e entrar em contato se quis
 
 ---
 
-[[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/seu-perfil-linkedin/](https://www.linkedin.com/in/mateus-alves-4369a71a5/))](https://www.linkedin.com/in/mateus-alves-4369a71a5/)
-[[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/seu-numero-whatsapp)](https://wa.me/5521981558361)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/seu-perfil-linkedin/](https://www.linkedin.com/in/mateus-alves-4369a71a5/))](https://www.linkedin.com/in/mateus-alves-4369a71a5/)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/seu-numero-whatsapp)](https://wa.me/5521981558361)
