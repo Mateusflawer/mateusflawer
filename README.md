@@ -19,3 +19,16 @@ Sinta-se à vontade para explorar meus repositórios e entrar em contato se quis
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mateus-alves-4369a71a5/)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5521981558361)
+
+---
+
+![Python](https://img.shields.io/badge/Python-333333?style=flat&logo=python&logoColor=3776AB)
+![Pandas](https://img.shields.io/badge/Pandas-333333?style=flat&logo=pandas&logoColor=150458)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-333333?style=flat&logo=sqlalchemy&logoColor=red)
+![MySQL](https://img.shields.io/badge/MySQL-333333?style=flat&logo=mysql&logoColor=4479A1)
+![Git](https://img.shields.io/badge/Git-333333?style=flat&logo=git&logoColor=F05032)
+![Jupyter](https://img.shields.io/badge/Jupyter-333333?style=flat&logo=jupyter&logoColor=F37626)
+
+----
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mateusflawer&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" /></p>
