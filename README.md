@@ -27,11 +27,15 @@ Sinta-se à vontade para explorar meus repositórios e entrar em contato se quis
 |----------|
 |  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python"  alt="Python" width="55" height="55"/> |
 
+---
+
 ### Melhores frameworks e principais bibliotecas para Python3:
 
 | Selenium | Numpy | Pandas | Sklearn |
 |----------|----------|----------|----------|
 |  <img src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg" title="Selenium"  alt="Selenium" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg" title="Numpy" alt="Numpy" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" title="Pandas" alt="Pandas" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/scikitlearn/scikitlearn-original.svg" title="sklearn" alt="sklearn" width="55" height="55"/>|
+
+---
 
 ### Minhas ferramentas para manipulação e visualização de dados:
 
@@ -39,6 +43,7 @@ Sinta-se à vontade para explorar meus repositórios e entrar em contato se quis
 |----------|----------|----------|----------|----------|----------|
 |<img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="Jupiter" alt="Jupiter" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original-wordmark.svg" title="SQLite" alt="SQLite" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/plotly/plotly-original.svg" title="plotly" alt="pltly" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/matplotlib/matplotlib-original.svg" title="plotly" alt="pltly" width="55" height="55"/> | <img src="https://docs.streamlit.io/logo.svg" title="Streamlit" alt="Streamlit" width="55" height="55"/>
 
+---
 
 ### Ambientes, testes, outros:
 
@@ -46,6 +51,7 @@ Sinta-se à vontade para explorar meus repositórios e entrar em contato se quis
 |----------|
 |<img src="https://github.com/devicons/devicon/blob/master/icons/pytest/pytest-original-wordmark.svg" title="pytest" alt="pytest" width="55" height="55"/>|
 
+---
 
 ### SO:
 
@@ -56,7 +62,6 @@ Sinta-se à vontade para explorar meus repositórios e entrar em contato se quis
 ---
 
 ### Statistics:
-
 
 <p align="center">
   <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateusflawer&size_weight=0.0005&count_weight=0.3&layout=compact&theme=vision-friendly-dark">
@@ -70,10 +75,10 @@ Sinta-se à vontade para explorar meus repositórios e entrar em contato se quis
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mateusflawer&theme=vision-friendly-dark" alt="GitHub Streak" />
 </p>
 
-<div id="header" align="center">
-  <img src="https://komarev.com/ghpvc/?username=mateusflawer&style=for-the-badge&color=orange" alt=""/>
-</div>
-
 <p align="center">
  <img width="1000" src="https://github.com/sammorozov/sammorozov/blob/main/assets/github-snake.svg" alt="snake"/>
 </p>
+
+<div id="header" align="center">
+  <img src="https://komarev.com/ghpvc/?username=mateusflawer&style=for-the-badge&color=orange" alt=""/>
+</div>
