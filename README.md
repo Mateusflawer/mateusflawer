@@ -56,10 +56,8 @@ Sinta-se à vontade para explorar meus repositórios e entrar em contato se quis
 ---
   
 <p align="center">
-  <img width="800" height="220" src="https://streak-stats.demolab.com?user=mateusflawer&theme=highcontrast&hide_border=true&border_radius=5&card_width=800">
+  <img src="https://komarev.com/ghpvc/?username=mateusflawer&color=green" alt="Profile Views" />
 </p>
-
----
 
 <p align="center">
   <img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=mateusflawer&show_icons=true&theme=vision-friendly-dark">
@@ -87,12 +85,6 @@ Statistics
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mateusflawer&theme=vision-friendly-dark" alt="GitHub Streak" />
 </p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mateusflawer&color=green" alt="Profile Views" />
-</p>
-
-
 
 <p align="center">
  <img width="1000" src="https://github.com/sammorozov/sammorozov/blob/main/assets/github-snake.svg" alt="snake"/>
