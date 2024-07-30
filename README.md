@@ -1,20 +1,20 @@
-# Olá, meu nome é Mateus 👋
-### Desenvolvedor na Fadel Transportes
+# Hello, my name is Matthew 👋
+### Developer at Fadel Transportes
 
 
-Bem-vindo ao meu perfil! Sou um desenvolvedor apaixonado por criar soluções inovadoras que simplificam a vida das pessoas. 
+Welcome to my profile! I'm a developer passionate about creating innovative solutions that simplify people's lives. 
 
-Aqui estão algumas informações sobre mim:
+Here is some information about me:
 
-- 🔭 Atualmente, estou trabalhando em um projeto de atualização em tempo real de dados de veículos, lidando com situações em que os veículos podem perder sinal e não aparecer em todas as consultas.
-- 🌱 Estou aprendendo JavaScript para desenvolvimento web.
-- 👯 Busco colaborar em projetos de tecnologia que visem melhorar a eficiência operacional de empresas, especialmente em logística e transporte.
-- 🤔 Procuro ajuda com a integração de diferentes tecnologias para criar soluções robustas e escaláveis.
-- 💬 Pergunte-me sobre Python, Streamlit, Pandas, MySQL e como otimizar operações financeiras para pequenas empresas.
-- 📫 Como me encontrar: Você pode me contatar pelo [WhatsApp Business](https://wa.me/5521981558361) ou pelo [LinkedIn](https://www.linkedin.com/in/mateus-alves-4369a71a5/).
-- ⚡ Fato curioso: Adoro assistir filmes de animação com minha namorada, e juntos já assistimos uma vasta lista de filmes que nos inspiram e divertem.
+- 🔭 I'm currently working on a real-time vehicle data update project, dealing with situations where vehicles may lose signal and not appear in all queries.
+- 🌱 I'm learning JavaScript for web development.
+- 👯 I seek to collaborate on technology projects that aim to improve the operational efficiency of companies, especially in logistics and transport.
+- 🤔 Seek help with integrating different technologies to create robust and scalable solutions.
+- 💬 Ask me about Python, Streamlit, Pandas, MySQL and how to optimize financial operations for small businesses.
+- 📫 How to find me: You can contact me via [WhatsApp Business](https://wa.me/5521981558361) or [LinkedIn](https://www.linkedin.com/in/mateus-alves-4369a71a5/ ).
+- ⚡ Fun fact: I love watching animated films with my girlfriend, and together we have watched a vast list of films that inspire and entertain us.
 
-Sinta-se à vontade para explorar meus repositórios e entrar em contato se quiser colaborar ou apenas bater um papo sobre tecnologia e inovação!
+Feel free to explore my repositories and get in touch if you want to collaborate or just chat about technology and innovation!
 
 ---
 
@@ -22,14 +22,15 @@ Sinta-se à vontade para explorar meus repositórios e entrar em contato se quis
 
 ---
 
-### Linguagens:
+### Languages:
+
 | Python3 |
 |----------|
 |  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python"  alt="Python" width="55" height="55"/> |
 
 ---
 
-### Melhores frameworks e principais bibliotecas para Python3:
+### Best frameworks and main libraries for Python3:
 
 | Selenium | Numpy | Pandas | Sklearn |
 |----------|----------|----------|----------|
@@ -37,7 +38,7 @@ Sinta-se à vontade para explorar meus repositórios e entrar em contato se quis
 
 ---
 
-### Minhas ferramentas para manipulação e visualização de dados:
+### My tools for data manipulation and visualization:
 
 | Jupyter | MySQL | SQLite | Plotly | Matpltlib | Streamlit |
 |----------|----------|----------|----------|----------|----------|
@@ -45,7 +46,7 @@ Sinta-se à vontade para explorar meus repositórios e entrar em contato se quis
 
 ---
 
-### Ambientes, testes, outros:
+### Environments, tests, others:
 
 | Pytest |
 |----------|
@@ -53,7 +54,7 @@ Sinta-se à vontade para explorar meus repositórios e entrar em contato se quis
 
 ---
 
-### SO:
+### OS:
 
 | Windows | Linux | Ubuntu |
 |----------|----------|----------|
@@ -61,7 +62,7 @@ Sinta-se à vontade para explorar meus repositórios e entrar em contato se quis
 
 ---
 
-### Estatísticas:
+### Statistics:
 
 <p align="center">
   <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateusflawer&size_weight=0.0005&count_weight=0.3&layout=compact&theme=vision-friendly-dark">
