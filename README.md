@@ -1,9 +1,6 @@
 # Olá, meu nome é Mateus 👋
 ### Desenvolvedor na Fadel Transportes
 
----
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=mateusflawer&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 Bem-vindo ao meu perfil! Sou um desenvolvedor apaixonado por criar soluções inovadoras que simplificam a vida das pessoas. 
 
@@ -18,6 +15,10 @@ Aqui estão algumas informações sobre mim:
 - ⚡ Fato curioso: Adoro assistir filmes de animação com minha namorada, e juntos já assistimos uma vasta lista de filmes que nos inspiram e divertem.
 
 Sinta-se à vontade para explorar meus repositórios e entrar em contato se quiser colaborar ou apenas bater um papo sobre tecnologia e inovação!
+
+---
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=mateusflawer&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
