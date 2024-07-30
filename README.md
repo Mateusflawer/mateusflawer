@@ -18,7 +18,7 @@ Sinta-se à vontade para explorar meus repositórios e entrar em contato se quis
 
 ---
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=mateusflawer&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=mateusflawer&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
