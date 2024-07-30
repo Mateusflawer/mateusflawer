@@ -25,22 +25,19 @@ Sinta-se à vontade para explorar meus repositórios e entrar em contato se quis
 
 ---
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mateusflawer&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" /></p>
-
----
-
 <div>
   <a href="https://www.instagram.com/mateusalvesrj" target="_blank"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram" /></a>
-
   <a href="mailto: mateusflawer@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?style=flat&logo=Gmail&logoColor=white" alt="Gmail" /></a>
-
   <a href="https://codepen.io/" target="_blank"><img src="https://img.shields.io/badge/-Codepen-black?style=flat&logo=Codepen&logoColor=white" alt="Codepen" /></a>
 </div>
 
- ##
 ---
 
 <div>
 <!--   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mateusflawer&show_icons=true&theme=radical&count_private=true"/> -->
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateusflawer&layout=compact&langs_count=8&theme=radical"/>
 </div>
+
+---
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mateusflawer&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" /></p>
