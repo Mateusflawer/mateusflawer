@@ -19,7 +19,6 @@ Sinta-se à vontade para explorar meus repositórios e entrar em contato se quis
 
 ![Python](https://img.shields.io/badge/Python-333333?style=flat&logo=python&logoColor=3776AB)
 ![Pandas](https://img.shields.io/badge/Pandas-333333?style=flat&logo=pandas&logoColor=150458)
-![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-333333?style=flat&logo=sqlalchemy&logoColor=red)
 ![MySQL](https://img.shields.io/badge/MySQL-333333?style=flat&logo=mysql&logoColor=4479A1)
 ![Jupyter](https://img.shields.io/badge/Jupyter-333333?style=flat&logo=jupyter&logoColor=F37626)
 
