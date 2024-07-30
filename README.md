@@ -53,9 +53,10 @@ Sinta-se à vontade para explorar meus repositórios e entrar em contato se quis
 |----------|----------|----------|
 | <img src="https://github.com/devicons/devicon/blob/master/icons/windows8/windows8-original.svg" title="Windows" alt="Windows" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-original.svg" title="Ubuntu" alt="Ubuntu" width="55" height="55"/> |
 
-<hr>
-Statistics 
-<hr>
+---
+
+### Statistics:
+
 
 <p align="center">
   <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateusflawer&size_weight=0.0005&count_weight=0.3&layout=compact&theme=vision-friendly-dark">
@@ -65,26 +66,13 @@ Statistics
   <img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=mateusflawer&show_icons=true&theme=vision-friendly-dark">
 </p>
 
-<div id="header" align="center">
-  <img src="https://komarev.com/ghpvc/?username=mateusflawer&style=for-the-badge&color=orange" alt=""/>
-</div>
-
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mateusflawer&theme=vision-friendly-dark" alt="GitHub Streak" />
 </p>
 
-
-
-
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mateusflawer&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mateusflawer&show_icons=true&locale=en&theme=vision-friendly-dark" alt="GitHub Stats" />
-</p>
-
+<div id="header" align="center">
+  <img src="https://komarev.com/ghpvc/?username=mateusflawer&style=for-the-badge&color=orange" alt=""/>
+</div>
 
 <p align="center">
  <img width="1000" src="https://github.com/sammorozov/sammorozov/blob/main/assets/github-snake.svg" alt="snake"/>
