@@ -9,7 +9,7 @@ Aqui estão algumas informações sobre mim:
 - 🌱 Estou aprendendo JavaScript para desenvolvimento web.
 - 👯 Busco colaborar em projetos de tecnologia que visem melhorar a eficiência operacional de empresas, especialmente em logística e transporte.
 - 🤔 Procuro ajuda com a integração de diferentes tecnologias para criar soluções robustas e escaláveis.
-- 💬 Pergunte-me sobre Python, Streamlit, Pandas, SQLAlchemy e como otimizar operações financeiras para pequenas empresas.
+- 💬 Pergunte-me sobre Python, Streamlit, Pandas, MySQL e como otimizar operações financeiras para pequenas empresas.
 - 📫 Como me encontrar: Você pode me contatar pelo [WhatsApp Business](https://wa.me/5521981558361) ou pelo [LinkedIn](https://www.linkedin.com/in/mateus-alves-4369a71a5/).
 - ⚡ Fato curioso: Adoro assistir filmes de animação com minha namorada, e juntos já assistimos uma vasta lista de filmes que nos inspiram e divertem.
 
@@ -22,14 +22,6 @@ Sinta-se à vontade para explorar meus repositórios e entrar em contato se quis
 ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-333333?style=flat&logo=sqlalchemy&logoColor=red)
 ![MySQL](https://img.shields.io/badge/MySQL-333333?style=flat&logo=mysql&logoColor=4479A1)
 ![Jupyter](https://img.shields.io/badge/Jupyter-333333?style=flat&logo=jupyter&logoColor=F37626)
-
----
-
-<div>
-  <a href="https://www.instagram.com/mateusalvesrj" target="_blank"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram" /></a>
-  <a href="mailto: mateusflawer@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?style=flat&logo=Gmail&logoColor=white" alt="Gmail" /></a>
-  <a href="https://codepen.io/" target="_blank"><img src="https://img.shields.io/badge/-Codepen-black?style=flat&logo=Codepen&logoColor=white" alt="Codepen" /></a>
-</div>
 
 ---
 
