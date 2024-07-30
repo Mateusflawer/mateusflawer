@@ -76,7 +76,7 @@ Sinta-se à vontade para explorar meus repositórios e entrar em contato se quis
 </p>
 
 <p align="center">
- <img width="1000" src="https://github.com/sammorozov/sammorozov/blob/main/assets/github-snake.svg" alt="snake"/>
+ <img width="1000" src="https://github.com/mateusflawer/sammorozov/blob/main/assets/github-snake.svg" alt="snake"/>
 </p>
 
 <div id="header" align="center">
