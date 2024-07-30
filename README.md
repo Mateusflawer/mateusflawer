@@ -72,3 +72,28 @@ Sinta-se à vontade para explorar meus repositórios e entrar em contato se quis
 <div id="header" align="center">
   <img src="https://komarev.com/ghpvc/?username=mateusflawer&style=for-the-badge&color=orange" alt=""/>
 </div>
+
+<hr>
+Statistics 
+<hr>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mateusflawer&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mateusflawer&show_icons=true&locale=en&theme=vision-friendly-dark" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mateusflawer&theme=vision-friendly-dark" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=mateusflawer&color=green" alt="Profile Views" />
+</p>
+
+
+
+<p align="center">
+ <img width="1000" src="https://github.com/sammorozov/sammorozov/blob/main/assets/github-snake.svg" alt="snake"/>
+</p>
