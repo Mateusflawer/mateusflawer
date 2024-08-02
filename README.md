@@ -33,9 +33,15 @@ Feel free to explore my repositories and reach out if you want to collaborate or
 
 ### Languages:
 
-| Python3 |
-|----------|
-|  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python"  alt="Python" width="55" height="55"/> |
+<table>
+  <tr>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" />
+      <br>Python
+    </td>
+ </tr>
+</table>
+</div>
 
 ---
 
