@@ -11,6 +11,11 @@ Welcome to my GitHub! I'm a developer focused on creating innovative solutions t
 - 📫 Reach me via [WhatsApp Business](https://wa.me/5521981558361) or [LinkedIn](https://www.linkedin.com/in/mateus-alves-4369a71a5/).
 
 Feel free to explore my repositories and reach out if you want to collaborate or discuss technology and innovation!
+
+<div id="header">
+  <img src="https://komarev.com/ghpvc/?username=mateusflawer&style=for-the-badge&color=blue" alt=""/>
+</div>
+
 ---
 
 ### Trophies:
@@ -72,7 +77,3 @@ Feel free to explore my repositories and reach out if you want to collaborate or
 <p align="center">
  <img width="1000" src="https://github.com/sammorozov/sammorozov/blob/main/assets/github-snake.svg" alt="snake"/>
 </p>
-
-<div id="header" align="center">
-  <img src="https://komarev.com/ghpvc/?username=mateusflawer&style=for-the-badge&color=orange" alt=""/>
-</div>
