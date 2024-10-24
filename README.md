@@ -1,20 +1,21 @@
 # Hello, I'm Mateus 👋
-### Developer at Fadel Transportes
-
-Welcome to my GitHub! I'm a developer focused on creating innovative solutions that simplify and optimize operations.
+## Developer and Automation Specialist at Fadel Transportes
+Welcome to my GitHub! I'm a developer focused on creating innovative solutions that simplify and optimize operations through automation and real-time data analysis.
 
 ### About Me:
-- 🔭 Currently working on a real-time vehicle data update project.
-- 🌱 Learning JavaScript for web development.
-- 👯 Interested in collaborating on projects that enhance operational efficiency, especially in logistics and transport.
-- 💬 Ask me about Python, Streamlit, Pandas, MySQL, and optimizing financial operations for small businesses.
+- 🔭 Currently working on a real-time vehicle data update project and developing automation bots for fleet monitoring and service order management.
+- 🌱 Expanding my knowledge in JavaScript for enhanced web development.
+- ⚙️ Expertise in automating processes, integrating data from multiple sources (SQL databases, APIs), and building real-time dashboards using Python, Streamlit, Pandas, and Plotly.
+- 👯 Interested in collaborating on projects that enhance operational efficiency, particularly in logistics and transport, through data-driven insights and automation.
+- 💬 Feel free to ask me about Python, Streamlit, Pandas, MySQL, automating financial operations for small businesses, or any technology that simplifies processes.
 - 📫 Reach me via [WhatsApp Business](https://wa.me/5521981558361) or [LinkedIn](https://www.linkedin.com/in/mateus-alves-4369a71a5/).
 
-Feel free to explore my repositories and reach out if you want to collaborate or discuss technology and innovation!
+### What I Do:
+I specialize in the automation of processes and real-time data analysis, developing intelligent solutions to optimize critical operational workflows. My work includes creating automated bots that streamline processes such as fleet monitoring and service order management, providing actionable insights to boost productivity and efficiency.
 
-<div id="header">
-  <img src="https://komarev.com/ghpvc/?username=mateusflawer&style=for-the-badge&color=blue" alt=""/>
-</div>
+By leveraging technologies like Python, Pandas, Streamlit, and Plotly, I design interactive dashboards that simplify decision-making and deliver real-time operational visibility. Passionate about innovation, I focus on simplifying complex tasks, automating repetitive processes, and consistently looking for scalable, high-impact solutions.
+
+Feel free to explore my repositories and reach out if you'd like to collaborate or discuss technology and innovation!
 
 ---
 
@@ -56,9 +57,9 @@ Feel free to explore my repositories and reach out if you want to collaborate or
 
 ### My tools for data manipulation and visualization:
 
-| Jupyter | MySQL | SQLite | Plotly | Streamlit |
-|----------|----------|----------|----------|----------|
-|<img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="Jupiter" alt="Jupiter" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original-wordmark.svg" title="SQLite" alt="SQLite" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/plotly/plotly-original.svg" title="plotly" alt="pltly" width="55" height="55"/> | <img src="https://docs.streamlit.io/logo.svg" title="Streamlit" alt="Streamlit" width="55" height="55"/>
+| Jupyter | MySQL | SQLite | Plotly | Streamlit | Django |
+|----------|----------|----------|----------|----------|----------|
+|<img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="Jupiter" alt="Jupiter" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original-wordmark.svg" title="SQLite" alt="SQLite" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/plotly/plotly-original.svg" title="plotly" alt="pltly" width="55" height="55"/>|<img src="https://docs.streamlit.io/logo.svg" title="Streamlit" alt="Streamlit" width="55" height="55"/>|<img src="https://avatars.githubusercontent.com/u/27804?s=200&v=4" title="Django" alt="Django" width="55" height="55"/>
 
 ### Environments, tests, others:
 
@@ -68,6 +69,12 @@ Feel free to explore my repositories and reach out if you want to collaborate or
 
 ### OS:
 
-| Windows | Linux | Ubuntu |
-|----------|----------|----------|
-| <img src="https://github.com/devicons/devicon/blob/master/icons/windows8/windows8-original.svg" title="Windows" alt="Windows" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-original.svg" title="Ubuntu" alt="Ubuntu" width="55" height="55"/> |
+| Windows | Linux |
+|----------|----------|
+| <img src="https://github.com/devicons/devicon/blob/master/icons/windows8/windows8-original.svg" title="Windows" alt="Windows" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="55" height="55"/> |
+
+---
+
+<div id="header">
+  <img src="https://komarev.com/ghpvc/?username=mateusflawer&style=for-the-badge&color=blue" alt=""/>
+</div>
