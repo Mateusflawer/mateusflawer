@@ -4,7 +4,6 @@ Welcome to my GitHub! I'm a developer focused on creating innovative solutions t
 
 ### About Me:
 - 🔭 Currently working on a real-time vehicle data update project and developing automation bots for fleet monitoring and service order management.
-- 🌱 Expanding my knowledge in JavaScript for enhanced web development.
 - ⚙️ Expertise in automating processes, integrating data from multiple sources (SQL databases, APIs), and building real-time dashboards using Python, Streamlit, Pandas, and Plotly.
 - 👯 Interested in collaborating on projects that enhance operational efficiency, particularly in logistics and transport, through data-driven insights and automation.
 - 💬 Feel free to ask me about Python, Streamlit, Pandas, MySQL, automating financial operations for small businesses, or any technology that simplifies processes.
