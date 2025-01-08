@@ -1,4 +1,4 @@
-# Olá, sou [Mateus Menezes] 👋  
+# Olá, sou Mateus Menezes 👋  
 ## Desenvolvedor e Especialista em Automação  
 Bem-vindo ao meu GitHub! Desenvolvo soluções para simplificar e otimizar processos operacionais por meio de automação e análise de dados em tempo real.
 
