@@ -14,7 +14,7 @@ Bem-vindo ao meu GitHub! Desenvolvo soluções para simplificar e otimizar proce
 - Criação de dashboards interativos para decisões baseadas em dados em tempo real.  
 - Integração de APIs e bancos de dados para simplificar fluxos de trabalho.  
 
-Explore meus repositórios para exemplos práticos e soluções aplicáveis. Vamos colaborar! 🚀  
+Explore meus repositórios para exemplos práticos e soluções aplicáveis. Vamos inovar! 🚀  
 
 ---
 
