@@ -7,7 +7,7 @@ Bem-vindo ao meu GitHub! Desenvolvo soluções para simplificar e otimizar proce
 - ⚙️ Experiência em automação de processos, integração de APIs e bancos de dados SQL, e desenvolvimento de dashboards em **Python** com **Streamlit**, **Pandas** e **Plotly**.  
 - 👯 Busco colaborar em projetos que aumentem a eficiência operacional, especialmente em logística e transporte, utilizando insights baseados em dados.  
 - 💬 Pergunte-me sobre Python, Streamlit, Pandas, MySQL, automação de processos ou análise de dados.  
-- 📫 Contato: [WhatsApp Business](https://wa.me/5521981558361) | [LinkedIn](https://www.linkedin.com/in/mateus-alves-4369a71a5/) 
+- 📫 Contato: [WhatsApp Business](https://wa.me/5521981558361) | [LinkedIn](https://www.linkedin.com/in/mateus-menezes-4369a71a5/) 
 
 ### O Que Eu Faço:  
 - Automação de tarefas repetitivas, como extração e consolidação de dados.  
