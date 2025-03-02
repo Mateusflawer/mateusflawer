@@ -10,7 +10,7 @@ Bem-vindo ao meu GitHub! Desenvolvo soluções para simplificar e otimizar proce
 
 ### O Que Eu Faço:  
 - Automação de tarefas repetitivas, como extração e consolidação de dados.  
-- Criação de dashboards interativos para decisões baseadas em dados em tempo real.  
+- Criação de dashboards interativos personalizadas para decisões baseadas em dados em tempo real.  
 - Integração de APIs e bancos de dados para simplificar fluxos de trabalho.  
 
 Explore meus repositórios para exemplos práticos e soluções aplicáveis. Vamos inovar! 🚀  
