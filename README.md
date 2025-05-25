@@ -1,40 +1,67 @@
-# Desenvolvedor e Especialista em Automação  
-Bem-vindo ao meu GitHub! Desenvolvo soluções para simplificar e otimizar processos operacionais por meio de automação e análise de dados em tempo real.
+# Desenvolvedor | Especialista em Automação e Análise de Dados
 
-### Sobre Mim:  
-- 🔭 Atualmente trabalhando em projetos de automação de dados e criação de dashboards interativos para análise operacional.  
-- ⚙️ Experiência em automação de processos, integração de APIs e bancos de dados SQL, e desenvolvimento de dashboards em **Python** com **Streamlit**, **Pandas** e **Plotly**.  
-- 👯 Busco colaborar em projetos que aumentem a eficiência operacional, utilizando insights baseados em dados.  
-- 💬 Pergunte-me sobre Python, Streamlit, Pandas, MySQL, automação de processos ou análise de dados.  
-- 📫 Contato: [WhatsApp Business](https://wa.me/5521981558361) | [LinkedIn](https://www.linkedin.com/in/mateus-menezes-4369a71a5/) 
-
-### O Que Eu Faço:  
-- Automação de tarefas repetitivas, como extração e consolidação de dados.
-- Criação de dashboards interativos personalizadas para decisões baseadas em dados em tempo real.
-- Integração de APIs e bancos de dados para simplificar fluxos de trabalho.
-
-Explore meus repositórios para exemplos práticos e soluções aplicáveis. Vamos inovar! 🚀  
+Olá! Bem-vindo(a) ao meu GitHub! Sou apaixonado por criar soluções que otimizam processos operacionais através de **automação**, **análise de dados** e **visualizações interativas**. Aqui você encontrará projetos práticos que transformam dados em insights acionáveis e fluxos de trabalho mais eficientes.
 
 ---
 
-### Tecnologias e Ferramentas  
-| Python | Pandas | Streamlit | Plotly | MySQL |  
-|--------|--------|-----------|--------|-------|  
-| <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="45" height="45"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" alt="Pandas" width="45" height="45"/> | <img src="https://docs.streamlit.io/logo.svg" alt="Streamlit" width="45" height="45"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/plotly/plotly-original.svg" alt="Plotly" width="45" height="45"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="45" height="45"/> |  
+## 👨‍💻 Sobre Mim
+
+- 🔭 Atualmente trabalho em projetos de **automação de processos** e desenvolvimento de **dashboards interativos** para análise em tempo real.
+- ⚙️ Experiência em **Python**, **Streamlit**, **Pandas**, **Plotly**, integração de **APIs** e bancos de dados **SQL** (MySQL, PostgreSQL).
+- 🌱 Sempre aprendendo e explorando novas tecnologias, como **FastAPI**, **Docker** e soluções de **Big Data**.
+- 👯 Busco colaborar em projetos inovadores que utilizem dados para aumentar a eficiência operacional.
+- 💬 Pergunte-me sobre automação, visualização de dados, Python ou integração de sistemas!
+- 📫 **Conecte-se comigo**:
+  - [LinkedIn](https://www.linkedin.com/in/mateus-menezes-4369a71a5/)
+  - [WhatsApp Business](https://wa.me/5521981558361)
+  - Email: [mateusflawer@gmail.com]
 
 ---
 
-### Estatísticas:  
-<br>
- <div align="center">
-  <a href="https://github.com/mateusflawer"> 
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mateusflawer&show_icons=true&theme=algolia"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateusflawer&layout=compact&langs_count=7&theme=algolia" alt="Top linguagens"/>
+## 🚀 O Que Eu Faço
+
+- **Automação de Processos**: Simplifico tarefas repetitivas com scripts em Python para extração, tratamento e consolidação de dados.
+- **Dashboards Interativos**: Crio interfaces dinâmicas com Streamlit e Plotly para decisões baseadas em dados em tempo real.
+- **Integração de Sistemas**: Conecto APIs e bancos de dados para criar fluxos de trabalho eficientes e escaláveis.
+- **Análise de Dados**: Transformo dados brutos em insights valiosos com Pandas, SQL e visualizações avançadas.
+
+Explore meus repositórios para ver exemplos práticos e soluções aplicáveis!
+
+---
+
+## 🛠️ Tecnologias e Ferramentas
+
+| Python | Pandas | Streamlit | Plotly | MySQL | Docker |
+|--------|--------|-----------|--------|-------|--------|
+| <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="50" height="50"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" alt="Pandas" width="50" height="50"/> | <img src="https://docs.streamlit.io/logo.svg" alt="Streamlit" width="50" height="50"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/plotly/plotly-original.svg" alt="Plotly" width="50" height="50"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="50" height="50"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" alt="Docker" width="50" height="50"/> |
+
+Outras ferramentas: **FastAPI**, **PostgreSQL**, **Git**, **Jupyter Notebook**, **Excel**.
+
+---
+
+## 📊 Projetos em Destaque
+
+- **[Dashboard de Análise Operacional](PowerDados)**: Um dashboard interativo desenvolvido com Streamlit e Plotly para monitoramento em tempo real de KPIs operacionais.
+- **[Automação de Relatórios](Lino)**: Script em Python para extração e consolidação automática de dados de múltiplas fontes, integrado com MySQL.
+- **[Integração de APIs](Robô)**: Projeto que conecta APIs externas a bancos de dados locais, automatizando fluxos de dados.
+
+---
+
+## 📈 Estatísticas do GitHub
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mateusflawer&show_icons=true&theme=algolia&hide_border=true" alt="Estatísticas do GitHub"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateusflawer&layout=compact&langs_count=7&theme=algolia&hide_border=true" alt="Linguagens mais usadas"/>
 </div>
-<br>
 
 ---
 
-<div id="header">
-  <img src="https://komarev.com/ghpvc/?username=mateusflawer&style=for-the-badge&color=blue" alt=""/>
+## 📊 Visitas ao Perfil
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=mateusflawer&style=flat-square&color=blue" alt="Contador de visitas"/>
 </div>
+
+---
+
+**Vamos construir algo incrível juntos?** 🚀 Explore meus repositórios e entre em contato para colaborações ou ideias!
