@@ -4,14 +4,14 @@ Bem-vindo ao meu GitHub! Desenvolvo soluções para simplificar e otimizar proce
 ### Sobre Mim:  
 - 🔭 Atualmente trabalhando em projetos de automação de dados e criação de dashboards interativos para análise operacional.  
 - ⚙️ Experiência em automação de processos, integração de APIs e bancos de dados SQL, e desenvolvimento de dashboards em **Python** com **Streamlit**, **Pandas** e **Plotly**.  
-- 👯 Busco colaborar em projetos que aumentem a eficiência operacional, especialmente em logística e transporte, utilizando insights baseados em dados.  
+- 👯 Busco colaborar em projetos que aumentem a eficiência operacional, utilizando insights baseados em dados.  
 - 💬 Pergunte-me sobre Python, Streamlit, Pandas, MySQL, automação de processos ou análise de dados.  
 - 📫 Contato: [WhatsApp Business](https://wa.me/5521981558361) | [LinkedIn](https://www.linkedin.com/in/mateus-menezes-4369a71a5/) 
 
 ### O Que Eu Faço:  
-- Automação de tarefas repetitivas, como extração e consolidação de dados.  
-- Criação de dashboards interativos personalizadas para decisões baseadas em dados em tempo real.  
-- Integração de APIs e bancos de dados para simplificar fluxos de trabalho.  
+- Automação de tarefas repetitivas, como extração e consolidação de dados.
+- Criação de dashboards interativos personalizadas para decisões baseadas em dados em tempo real.
+- Integração de APIs e bancos de dados para simplificar fluxos de trabalho.
 
 Explore meus repositórios para exemplos práticos e soluções aplicáveis. Vamos inovar! 🚀  
 
