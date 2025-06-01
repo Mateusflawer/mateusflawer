@@ -14,7 +14,6 @@ Olá! Bem-vindo(a) ao meu GitHub! Sou apaixonado por criar soluções que otimiz
 - 📫 **Conecte-se comigo**:
   - [LinkedIn](https://www.linkedin.com/in/mateus-menezes-4369a71a5/)
   - [WhatsApp Business](https://wa.me/5521989880906)
-  - Email: [mateusflawer@gmail.com]
 
 ---
 
