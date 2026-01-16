@@ -64,15 +64,6 @@ Atuação direta com:
 
 ---
 
-## 📈 GitHub Stats
-
-<div align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=mateusflawer&show_icons=true&theme=algolia&hide_border=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateusflawer&layout=compact&theme=algolia&hide_border=true"/>
-</div>
-
----
-
 ## 🌐 Vamos nos conectar
 
 - 💼 LinkedIn:  
